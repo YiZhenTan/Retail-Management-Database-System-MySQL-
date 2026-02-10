@@ -10,7 +10,7 @@ Key features of the project include:
 - Normalisation up to Third Normal Form (3NF) to ensure data integrity and reduce redundancy
 - Implementation of the database using MySQL, including table creation and data population
 - Development of SQL queries demonstrating joins, nested subqueries, aggregate functions, and data manipulation (insert, update, delete)
-- Modelling real-world retail processes such as customer orders (in-store and delivery), inventory management, supplier purchasing, and employee roles
+- Modelling retail processes such as customer orders (in-store and delivery), inventory management, supplier purchasing, and employee roles
 
 ## Deliverables
 - Conceptual and Logical ERDs
