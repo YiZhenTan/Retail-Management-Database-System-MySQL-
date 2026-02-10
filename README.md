@@ -1,7 +1,7 @@
 # Retail-Management-Database-System-MySQL-
 End-to-end relational database design and implementation using MySQL for a retail business scenario.
 
-This project involves the designed and implemented an end-to-end relational database system for a retail business scenario as part of an academic project
+This project involves the designed and implemented an end-to-end relational database system for a retail business scenario as part of an academic project.
 The project involved analysing business requirements and translating them into structured conceptual and logical data models, followed by physical implementation using MySQL
 
 ## Overview
